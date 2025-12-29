@@ -1,0 +1,8 @@
+{
+  "name": "CivicPulse - Smart Complaint Management",
+  "description": "A sophisticated citizen complaint portal powered by Gemini AI for automated classification, priority assessment, and department routing.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
